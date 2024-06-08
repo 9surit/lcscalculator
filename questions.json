@@ -1,0 +1,706 @@
+[
+  {
+    "question": "1. The day I was born in 1984…",
+    "answers": [
+      {
+        "text": "A - the Polish priest Popieluszko was kidnapped by government agents. (+2 AGI)",
+        "changes": {
+          "stat": {
+            "AGI": 2
+          },
+          "skill": {},
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - was the 3rd anniversary of the assassination attempt on Ronald Reagan. (+2 STR)",
+        "changes": {
+          "stat": {
+            "STR": 2
+          },
+          "skill": {},
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - the Macintosh was introduced. (+2 INT)",
+        "changes": {
+          "stat": {
+            "INT": 2
+          },
+          "skill": {},
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - the Nobel Peace Prize went to Desmond Tutu for opposition to apartheid. (+2 HRT)",
+        "changes": {
+          "stat": {
+            "HRT": 2
+          },
+          "skill": {},
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - the Sandanista Front won the elections in Nicaragua. (+2 CHA)",
+        "changes": {
+          "stat": {
+            "CHA": 2
+          },
+          "skill": {},
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "2. When I was bad…",
+    "answers": [
+      {
+        "text": "A - my parents grounded me and hid my toys, but I knew where they put them. (+1 AGI, +1 Security)",
+        "changes": {
+          "stat": {
+            "AGI": 1
+          },
+          "skill": {
+            "Security": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - my father beat me. I learned to take a punch earlier than most. (+1 HTH, +1 Martial Arts)",
+        "changes": {
+          "stat": {
+            "HTH": 1
+          },
+          "skill": {
+            "Martial Arts": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - I was sent to my room, where I studied quietly by myself, alone. (+1 INT, +1 Writing)",
+        "changes": {
+          "stat": {
+            "INT": 1
+          },
+          "skill": {
+            "Writing": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - my parents argued with each other about me, but I was never punished. (+1 HRT, +1 Persuasion)",
+        "changes": {
+          "stat": {
+            "HRT": 1
+          },
+          "skill": {
+            "Persuasion": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - my father lectured me endlessly, trying to make me think like him. (+1 CHA, +1 Psychology)",
+        "changes": {
+          "stat": {
+            "CHA": 1
+          },
+          "skill": {
+            "Psychology": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "3. In elementary school…",
+    "answers": [
+      {
+        "text": "A - I was mischevious, and always up to something. (+1 AGI, +1 Disguise)",
+        "changes": {
+          "stat": {
+            "AGI": 1
+          },
+          "skill": {
+            "Disguise": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - I had a lot of repressed anger. I hurt animals. (+1 STR, +1 AGI, -1 HRT, +1 Psychology)",
+        "changes": {
+          "stat": {
+            "STR": 1,
+            "AGI": 1,
+            "HRT": -1
+          },
+          "skill": {
+            "Psychology": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - I was at the head of the class, and I worked very hard. (+1 INT, +1 Writing)",
+        "changes": {
+          "stat": {
+            "INT": 1
+          },
+          "skill": {
+            "Writing": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - I was unruly and often fought with the other children. (+1 STR, +1 Martial Arts)",
+        "changes": {
+          "stat": {
+            "STR": 1
+          },
+          "skill": {
+            "Martial Arts": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - I was the class clown. I even had some friends. (+1 CHA, +1 Persuasion)",
+        "changes": {
+          "stat": {
+            "CHA": 1
+          },
+          "skill": {
+            "Persuasion": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "4. When I turned 10…",
+    "answers": [
+      {
+        "text": "A - my parents divorced. Whenever I talked, they argued, so I stayed quiet. (+1 Stealth)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Stealth": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - my parents divorced. Violently. (+1 Martial Arts)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Martial Arts": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - my parents divorced. Acrimoniously. I once tripped over the paperwork! (+1 Law)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Law": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - my parents divorced. Mom slept with the divorce lawyer. (+1 Seduction)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Seduction": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - my parents divorced. It still hurts to read my old diary. (+1 Writing)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Writing": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "5. In junior high school…",
+    "answers": [
+      {
+        "text": "A - I was into chemistry. I wanted to know what made the world tick. (+2 INT, +2 Science)",
+        "changes": {
+          "stat": {
+            "INT": 2
+          },
+          "skill": {
+            "Science": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - I played guitar in a grunge band. We sucked, but so did life. (+2 CHA, +2 Music)",
+        "changes": {
+          "stat": {
+            "CHA": 2
+          },
+          "skill": {
+            "Music": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - I drew things, a lot. I was drawing a world better than this. (+2 HRT, +2 Art)",
+        "changes": {
+          "stat": {
+            "HRT": 2
+          },
+          "skill": {
+            "Art": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - I played violent video games at home. I was a total outcast. (+2 AGI, +2 Computers)",
+        "changes": {
+          "stat": {
+            "AGI": 2
+          },
+          "skill": {
+            "Computers": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - I was obsessed with swords, and started lifting weights. (+2 STR, +2 Sword)",
+        "changes": {
+          "stat": {
+            "STR": 2
+          },
+          "skill": {
+            "Sword": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "6. Things were getting really bad…",
+    "answers": [
+      {
+        "text": "A - when I stole my first car. I got a few blocks before I totalled it. (+1 Driving, +1 Security)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Driving": 1,
+            "Security": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - and I went to live with my dad. He had been in Nam and he still drank. (+1 Shotgun, +1 Rifle, +1 Psychology)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Shotgun": 1,
+            "Rifle": 1,
+            "Psychology": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - and I went completely goth. I had no friends and made costumes by myself. (+2 Tailoring)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Tailoring": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - when I was sent to religious counseling, just stressing me out more. (+1 Religion, +1 Psychology)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Religion": 1,
+            "Psychology": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - and I tried being a teacher's assistant. It just made me a target. (+2 Teaching)",
+        "changes": {
+          "stat": {},
+          "skill": {
+            "Teaching": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "7. Well, I knew it had reached a crescendo when…",
+    "answers": [
+      {
+        "text": "A - I stole a cop car when I was only 14. I went to juvie for 6 months. (+1 INT, +1 Driving, +1 Security)",
+        "changes": {
+          "stat": {
+            "INT": 1
+          },
+          "skill": {
+            "Driving": 1,
+            "Security": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - my stepmom shot her ex-husband, my dad, with a shotgun. She got off. (+1 AGI, +2 Shotgun)",
+        "changes": {
+          "stat": {
+            "AGI": 1
+          },
+          "skill": {
+            "Shotgun": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - I tried wrestling for a quarter, desperate to fit in. (+1 STR, +2 Martial Arts)",
+        "changes": {
+          "stat": {
+            "STR": 1
+          },
+          "skill": {
+            "Martial Arts": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - I got caught making out, and now I needed to be 'cured' of homosexuality. (+1 HRT, +1 Seduction, +1 Religion)",
+        "changes": {
+          "stat": {
+            "HRT": 1
+          },
+          "skill": {
+            "Seduction": 1,
+            "Religion": 1
+          },
+          "bonus": [
+            "homosexuality"
+          ],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - I was resorting to controlling people. Had my own clique of outcasts. (+1 CHA, +2 Persuasion)",
+        "changes": {
+          "stat": {
+            "CHA": 1
+          },
+          "skill": {
+            "Persuasion": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "8. I was only 15 when I ran away, and…",
+    "answers": [
+      {
+        "text": "A - I started robbing houses: rich people only. I was fed up with their crap. (+1 AGI, +1 Security, +1 Stealth)",
+        "changes": {
+          "stat": {
+            "AGI": 1
+          },
+          "skill": {
+            "Security": 1,
+            "Stealth": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - I hung out with thugs and beat the shit out of people. (+1 STR, +2 Martial Arts)",
+        "changes": {
+          "stat": {
+            "STR": 1
+          },
+          "skill": {
+            "Martial Arts": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - I got a horrible job working fast food, smiling as people fed the man. (+1 CHA, +2 Business)",
+        "changes": {
+          "stat": {
+            "CHA": 1
+          },
+          "skill": {
+            "Business": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "D - I let people pay me for sex. I needed the money to survive. (-1 HRT, +2 CHA, +2 Seduction)",
+        "changes": {
+          "stat": {
+            "CHA": 2,
+            "HRT": -1
+          },
+          "skill": {
+            "Seduction": 2
+          },
+          "bonus": [],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - I volunteered for a left-wing candidate. It wasn't *real*, though, you know? (+1 INT, +1 Law, +1 Persuasion)",
+        "changes": {
+          "stat": {
+            "INT": 1
+          },
+          "skill": {
+            "Law": 1,
+            "Persuasion": 1
+          },
+          "bonus": [],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "9. Life went on. On my 18th birthday…",
+    "answers": [
+      {
+        "text": "A - I got my hands on a sports car. The owner must have been pissed. (Start with a stolen Sports Car)",
+        "changes": {
+          "stat": {},
+          "skill": {},
+          "bonus": [
+            "stolen Sports Car"
+          ],
+          "money": 0
+        }
+      },
+      {
+        "text": "B - I bought myself an assault rifle. (Start equipped with an AK-47 and 9 magazines)",
+        "changes": {
+          "stat": {},
+          "skill": {},
+          "bonus": [
+            "AK-47"
+          ],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - I celebrated. I'd saved a thousand bucks! (Start with $1000)",
+        "changes": {
+          "stat": {},
+          "skill": {},
+          "bonus": [],
+          "money": 1000
+        }
+      },
+      {
+        "text": "D - I went to party and met a cool law student. We've been dating ever since. (Start with a Lawyer recruited as a sleeper love slave.)",
+        "changes": {
+          "stat": {},
+          "skill": {},
+          "bonus": [
+            "Lawyer sleeper love slave"
+          ],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - I managed to acquire secret maps of several major buildings downtown. (Start with several downtown sites fully explored)",
+        "changes": {
+          "stat": {},
+          "skill": {},
+          "bonus": [
+            "several downtown sites fully explored"
+          ],
+          "money": 0
+        }
+      }
+    ]
+  },
+  {
+    "question": "10. For the past few years, I've been…",
+    "answers": [
+      {
+        "text": "A - stealing from Corporations. I know they're still keeping more secrets. (+2 INT, +2 AGI, +2 Security, +2 Stealth, $500, Downtown Apartments Safe House)",
+        "changes": {
+          "stat": {
+            "INT": 2,
+            "AGI": 2
+          },
+          "skill": {
+            "Security": 2,
+            "Stealth": 2
+          },
+          "bonus": [
+            "Downtown Apartments Safe House"
+          ],
+          "money": 500
+        }
+      },
+      {
+        "text": "B - a violent criminal. Nothing can change me, or stand in my way. (+2 AGI, +2 HTH, +2 STR, +2 Rifle, +2 Pistol, +2 Street Sense, 4 Armed Gang Members, 10 days of Rations, Crack House Safe House)",
+        "changes": {
+          "stat": {
+            "AGI": 2,
+            "HTH": 2,
+            "STR": 2
+          },
+          "skill": {
+            "Rifle": 2,
+            "Pistol": 2,
+            "Street Sense": 2
+          },
+          "bonus": [
+            "4 Armed Gang Members",
+            "10 days of Rations",
+            "Crack House Safe House"
+          ],
+          "money": 0
+        }
+      },
+      {
+        "text": "C - taking college courses. I can see how much the country needs help. (+4 INT, +2 Computers, +2 Science, +2 Teaching, +2 Writing, +1 Business, +1 Law, $200, University District Apartment Safe House)",
+        "changes": {
+          "stat": {
+            "INT": 4
+          },
+          "skill": {
+            "Computers": 2,
+            "Science": 2,
+            "Teaching": 2,
+            "Writing": 2,
+            "Business": 1,
+            "Law": 1
+          },
+          "bonus": [
+            "University District Apartment Safe House"
+          ],
+          "money": 200
+        }
+      },
+      {
+        "text": "D - surviving alone, just like anyone. But we can't go on like this. (+1 HRT, +2 INT, +3 HTH, +2 AGI, +1 STR, +1 CHA, +2 First Aid, +2 Street Sense, Homeless Shelter Safe House)",
+        "changes": {
+          "stat": {
+            "HRT": 1,
+            "INT": 2,
+            "HTH": 3,
+            "AGI": 2,
+            "STR": 1,
+            "CHA": 1
+          },
+          "skill": {
+            "First Aid": 2,
+            "Street Sense": 2
+          },
+          "bonus": [
+            "Homeless Shelter Safe House"
+          ],
+          "money": 0
+        }
+      },
+      {
+        "text": "E - writing my manifesto and refining my image. I'm ready to lead. (+2 CHA, +2 INT, +1 Writing, +1 Law, +2 Persuasion, +50 Juice, $50, Industrial Tenement Safe House)",
+        "changes": {
+          "stat": {
+            "CHA": 2,
+            "INT": 2
+          },
+          "skill": {
+            "Writing": 1,
+            "Law": 1,
+            "Persuasion": 2
+          },
+          "bonus": [
+            "+50 Juice",
+            "Industrial Tenement Safe House"
+          ],
+          "money": 50
+        }
+      }
+    ]
+  }
+]
